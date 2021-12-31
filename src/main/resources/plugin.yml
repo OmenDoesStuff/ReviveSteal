@@ -1,0 +1,10 @@
+name: ReviveSteal
+version: '${project.version}'
+main: net.dashsmp.revivesteal.ReviveSteal
+api-version: 1.18
+authors: [ OmenDoesStuff ]
+commands:
+  revive:
+    description: Revive A Player
+  sacrifice:
+    description: Revive A Player With The Cost Of Your Own Life.
